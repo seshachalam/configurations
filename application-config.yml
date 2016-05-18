@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: congig-client-poc
+config.client.key: name
+config.client.value: sesh
